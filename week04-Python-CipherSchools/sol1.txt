@@ -1,0 +1,2 @@
+['I']'s salary is['s']'s salary is['h']'s salary is['a']'s salary is['', '']'s salary is[' ']'s salary is['1']'s salary is['0']'s salary is['0']'s salary is['\n']'s salary isI's salary iss's salary ish's salary isa's salary is,'s salary is 's salary is1's salary is0's salary is0's salary is
+'s salary is

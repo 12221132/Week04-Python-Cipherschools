@@ -1,0 +1,4 @@
+Isha, 100
+Athira, 50
+Yatin, 100
+Abc, 100

@@ -1,0 +1,3 @@
+hello
+welcome to the world of coding
+please enter the world
